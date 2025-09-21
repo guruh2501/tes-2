@@ -1,13 +1,13 @@
 {
   "name": "tes-2",
   "version": "1.0.0",
-  "description": "",
+  "description": "belajar node.js di freecodecamp",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["freecodecamp", "Guruh Guniawan"],
   "author": "Guruh Guniawan",
   "license": "ISC",
   "dependencies": {
